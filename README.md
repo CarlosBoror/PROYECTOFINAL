@@ -1,0 +1,1 @@
+el funcionamiento del programa para la empresa de seguros TK-U es una de la empresas con el mayor numero de cotizaciones a diario, con este programa buscamos mejorar el servico a los clientes y no hacer que los clientes tenga que esperar por horas para realizar su gestion 
