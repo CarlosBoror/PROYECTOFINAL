@@ -1,0 +1,5 @@
+DESCRIPCION PUNTO EXTRAS
+
+En el proyecto anterior tenemos que solucionar un problema la cual seria en agregar otras funciones al programa donde al usuario le tire un mensaje si quiere realizar otra cotización "salir" y aparte de esa función agregar otras funciones donde le pida al usuario si tienen propiedades y que por medio de ese mensaje le diga que tendrá un recargo extra del 35% y otro sobre sus ingresos y también tendrá un recargo extra del 5% y asi podremos garantizar que el proyecto le dará los resultados y la opciones al usuario sin tener que esperar por horas y mejorar su experiencia.
+
+

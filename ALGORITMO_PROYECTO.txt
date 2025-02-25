@@ -1,0 +1,32 @@
+Pasos del procedimiento son:
+1. Validar que el usuario ingrese un nombre.
+2. Validar que el usuario ingrese su edad.
+3. Si el asegurado es mayor de edad.
+	2.1. Si su edad es entre 18 a 25 el recargo será del 10% sobre el precio base.
+	2.2. Si su edad es entre 26 a 49 el recargo será del 20% sobre el precio base.
+	2.3. Si su edad es mayor a 50 el recargo será del 30% sobre el precio base.
+3. Validar si el asegurado tiene conyúge.
+	3.1 Si el asegurado tiene conyúge.
+	3.2 Valida la edad del conyúge.
+	3.3 Si el asegurado no tiene conyúge.
+4. Validar si el asegurado tiene hijos.
+	4.1. Si el asegurado tiene hijos.
+	4.2. El recargo por cada hijo será del 20% sobre el precio base.
+	4.3. Si el asegurado no tiene hijos.
+5. Validar si el asegurado tiene propiedades.
+	5.1. Si el asegurado tiene propiedes.
+	5.2. El recargo será del 35% por cantidad sobre el precio base.
+	5.3. Si el asegurado no tiene propiedades.
+6. Validar si el asegurado tiene salario.
+	6.1. Si el asegurado tiene salario.
+	6.2. Validar que el salario sera mayor a 0.
+	6.3. Si el salario es mayor a 0 hará el calculo del salario del asegurado por el 5%.
+	6.4. Si el salario es menor o igual a 0 se le notifica por medio de la alerta y retorna al paso 6.1.1
+	6.5. Si el asegurado no tiene salario.
+7. Se le mostrará 3 alertas.
+	7.1 Alerta 1: El nombre del asegurado.
+	7.2 Alerta 2: El costo del recargo.
+	7.3 Alerta 3: El precio de la suma del salario base + recargo total.
+8. Validar si desea realizar otra cotización.
+	8.1 Si el usuario desea realizar otra cotización regresa al punto 1.
+	8.2 Si el usuario opta por no realizar otra cotización el programa finaliza.

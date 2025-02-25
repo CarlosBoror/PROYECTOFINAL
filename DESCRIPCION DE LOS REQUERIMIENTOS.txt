@@ -1,0 +1,13 @@
+DESCRIPCION DE LOS REQUERIMIENTOS 
+
+en el programa donde el usuario debe hacer una cotización automática tenemos que verificar unos factores las cuales son:
+
+1. validar que el cliente asegurar tenga 18 años de edad o mas para poder realizar la cotización, sin embargo no obtendrá una respuesta.
+2. buscamos validar si la persona tiene un plan base en la cual se le pueden aplicar algunos cargos extras según sus condiciones.
+3. el programa esta creado para calcular su rango de edad y obtener el recargo según su edad 
+ a. 18 a 24 obtendrá un recargo del 10% del precio base.
+ b. 25 a 49 obtendrá un recargo del 20& del precio base.
+ c. 50 o mas obtendrá un recargo del 30& del precio base.
+4 también  agregamos otra función donde el cliente tiene que validar si tienes hijos y obtendrá un recargo 20% por cada hijo 
+
+
